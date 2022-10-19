@@ -1,8 +1,8 @@
 # 🎃 HacktoberFest Starter Project 🎃
 
-✨ hacktoberfest 2022 <br>
-🌱 Contributing to hacktoberfest 2022 <br>
-Welcome to hacktoberfest 2022 Public Repository. 👨🏻‍💻 <br>
+✨ Hacktoberfest 2022 <br>
+🌱 Contributing to hacktoberfest 2022 <br> <br>
+Welcome to hacktoberfest2022 Public Repository. 👨🏻‍💻 <br>
 
 Happy Hacktober! :octocat: This is a beginner friendly repository made specifically for Hacktoberfest that helps you get your first PR.
 
@@ -18,7 +18,7 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 
 [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
 
-## How to contribute to this project
+## How to contribute to this project?
 * You can add any of your java projects using a PR
 * If it is according to the guidelines, your PR will be accepted and merged with "hacktoberfest-accepted"
 
@@ -40,3 +40,5 @@ git push origin branch-name
 * Create a new pull request from your forked repository (Click the `New Pull Request` button located at the top of your repo)
 * Wait for your PR review and merge approval!
 * __Star this repository__ if you had fun!
+
+Happy Coding!
