@@ -40,8 +40,3 @@ git push origin branch-name
 * Create a new pull request from your forked repository (Click the `New Pull Request` button located at the top of your repo)
 * Wait for your PR review and merge approval!
 * __Star this repository__ if you had fun!
-
-## Contributors
-<a href="https://github.com/Bopitiya77/Hack22/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Bopitiya77/Hack22" />
-</a>
